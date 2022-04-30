@@ -1,8 +1,8 @@
 # AIST2010 Project
 
 ## Group members
-Kwok Chun Kiu, 1155141911
-Kwok Lam Him, 1155144407
+- Kwok Chun Kiu, 1155141911
+- Kwok Lam Him, 1155144407
 
 ## Procedures for execution
 1. Upload 'mini-gpt.ipynb' to Google Colab.
